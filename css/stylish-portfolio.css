@@ -244,6 +244,22 @@ i.scroll:hover {
 /* Responsive */
 
 @media (max-width: 768px) {
+	
+	
+  .header {
+	background: url(../img/livingroom.jpg) no-repeat center center scroll; 
+  }
+.balcony {
+	background: url(../img/balcony.jpg) no-repeat center center scroll; 
+}
+  .balconyfrominside {
+	background: url(../img/balconyfrominside.jpg) no-repeat center center scroll; 
+  }
+
+
+  .guestbathroom {
+	background: url(../img/gaestewc.jpg) no-repeat center center scroll; 
+  }
 
   .map {
 	height: 75%;
